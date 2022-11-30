@@ -16,7 +16,7 @@
       </br>
       </br>
     <p style="text-align:center;">List of third party JavaScript Libraries used for this assignment:</p>
-    <p style="text-align:center;">1. D3.js Scatter-Plot</p>
+    <p style="text-align:center;">1. three.js</p>
     <p style="text-align:center;">2. chart.js</p>
     <p style="text-align:center;">3. google-charts</p>
     <p style="text-align:center;">4. plotly</p>
