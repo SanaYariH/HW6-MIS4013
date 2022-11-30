@@ -12,6 +12,12 @@
     <body style="background-color:powderblue;">
       <h1 style="text-align:center;">Sana Yari's Homework 6</h1>
       <p style="text-align:center;">JavaScript Libraries</p>
+      </br>
+    <p style="text-align:center;">List of third party JavaScript Libraries used for this assignment:</p>
+    <p>D3.js Scatter-Plot</p>
+    <p>chart.js</p>
+    <p>google-charts</p>
+    <p>plotly</p>
     </body>
   
   </head>
