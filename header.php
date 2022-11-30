@@ -7,19 +7,19 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="Three.js.html">function1</a>
+          <a class="nav-link active" aria-current="page" href="Three.js.html">Library-One</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="D3.js.html">function2</a>
+          <a class="nav-link" href="D3.js.html">Library-Two</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="chart.js.html">function3</a>
+          <a class="nav-link" href="chart.js.html">Library-Three</a>
         </li>
 	       <li class="nav-item">
-          <a class="nav-link" href="google-charts.html">function4</a>
+          <a class="nav-link" href="google-charts.html">Library-Four</a>
         </li> 
 	      <li class="nav-item">
-          <a class="nav-link" href="plotly.html">function5</a>
+          <a class="nav-link" href="plotly.html">Library-Five</a>
         </li>
         <li class="nav-item">
           <a class="nav-link disabled">Disabled</a>
