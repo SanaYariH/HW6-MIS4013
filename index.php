@@ -10,14 +10,16 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
     
     <body style="background-color:powderblue;">
+      </br>
       <h1 style="text-align:center;">Sana Yari's Homework 6</h1>
-      <p style="text-align:center;">JavaScript Libraries</p>
+      <h1 style="text-align:center;">JavaScript Libraries</h1>
+      </br>
       </br>
     <p style="text-align:center;">List of third party JavaScript Libraries used for this assignment:</p>
-    <p>D3.js Scatter-Plot</p>
-    <p>chart.js</p>
-    <p>google-charts</p>
-    <p>plotly</p>
+    <p style="text-align:center;">D3.js Scatter-Plot</p>
+    <p style="text-align:center;">chart.js</p>
+    <p style="text-align:center;">google-charts</p>
+    <p style="text-align:center;">plotly</p>
     </body>
   
   </head>
